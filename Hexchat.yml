@@ -1,0 +1,15 @@
+app: hexchat
+
+ingredients:
+  dist: bullseye
+  sources: 
+    - deb http://deb.debian.org/debian bullseye main contrib non-free
+  packages:
+  - hexchat-common
+  - hexchat-dev
+  - hexchat-indicator
+  - hexchat-lua
+  - hexchat-otr
+  - hexchat-perl
+  - hexchat-plugins
+  - hexchat-python3
