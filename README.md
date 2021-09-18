@@ -1,3 +1,6 @@
+# Hexchat - AppImage
+
+![video](https://user-images.githubusercontent.com/90393971/133887800-86401b28-a889-4bc2-8ef7-3e8e25f02888.png)
 
 1. Clone this repository and `cd` into it.
    ```shell
