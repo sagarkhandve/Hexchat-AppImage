@@ -4,14 +4,14 @@
 
 1. Clone this repository and `cd` into it.
    ```shell
-   git clone https://github.com/AppImage/sagarkhandve/HexChat.git
+   wget https://github.com/sagarkhandve/Hexchat/releases/download/v2.14.3/HexChat_x86_64.AppImage
    cd Hexchat/
-   chmod +x HexChat.AppImage
+   chmod +x HexChat_x86_64.AppImage
    ```
 2. Run
 
    ```shell
-   ./HexChat.AppImage
+   ./HexChat_x86_64.AppImage
    ```
 
 A configuration for [pkg2appimage](https://github.com/AppImage/pkg2appimage) to build Hexchat in AppImage form.
