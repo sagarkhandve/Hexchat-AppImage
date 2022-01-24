@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section")
+
 # Hexchat - AppImage
 
 ![hexchat](https://user-images.githubusercontent.com/90393971/133889996-a0e1ff70-f14e-4845-a47a-a4936c25cc69.png)
