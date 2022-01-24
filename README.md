@@ -22,7 +22,7 @@ How to use it?
 
 1. Clone this repository and `cd` into it.
     ```shell
-    git clone https://github.com/sagarkhandve/Hexchat.git
+    git clone https://github.com/sagarkhandve/Hexchat-AppImage.git
     cd Hexchat/
     ```
 2. Download pkg2appimage tool and make it executable.
